@@ -1,6 +1,5 @@
-# Old for fun app...
-
----
+## Old for fun app...
+Fully deprectaed and no intention of updating
 
 # Bring a Trailer Notification Client (Node, React, MongoDB)
 
